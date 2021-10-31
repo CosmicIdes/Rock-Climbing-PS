@@ -153,10 +153,10 @@ section {
 }
 
 .hero {
-    background-image: url("../img/hero.jpg");
+    background-image: url('../img/hero.jpg');
     height: 400px;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     text-transform: uppercase;
 }
 
@@ -204,7 +204,7 @@ section {
 
 .banner-text > div:last-child {
     font-size: 16px;
-    font-weight: 400px;
+    font-weight: 400;
     margin-top: 5px;
 }
 
